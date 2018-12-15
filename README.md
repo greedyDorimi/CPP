@@ -1,1 +1,1 @@
-Solutions of problems on InterviewBit in c++
+#InterviewBit solutions in C++.
